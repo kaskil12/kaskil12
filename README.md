@@ -43,13 +43,13 @@ I'm a passionate developer who loves coding, learning, and sharing knowledge. My
 ## 🌟 Featured Projects
 
 ### [Terminal]([https://github.com/yourusername/project1](https://github.com/kaskil12/TerminalStudio))
-A brief description of your project, what it does, and why it's awesome.
+A terminal as a learning project on cpp
 
 ### [Battle Royale Game]([https://github.com/yourusername/project2](https://github.com/kaskil12/BattleRoyale))
-A brief description of your project, what it does, and why it's awesome.
+A battle royale game that uses photon engine for the multiplayer and syncs all players actions. The game also has seperated server and game client side so that the server isn overloaded.
 
 ### [Game Jam Project - The Office]([https://github.com/yourusername/project3](https://github.com/kaskil12/BrackeysGameJam))
-A brief description of your project, what it does, and why it's awesome.
+A game jam project made in 7 days with procedural generation
 
 ---
 
