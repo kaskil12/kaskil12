@@ -16,15 +16,15 @@ Software developer specializing in C#, TypeScript, and Unity game development. B
 ## GitHub Stats
 
 ![Kasper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaskil12&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaskil12&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaskil12&layout=compact&theme=default&hide=c,tex,shaderlab,c%2B%2B,mathematica,hlsl,cmake)
 
 ## Current Projects
 
 - **IT Hub**: Quick-fix solution for school IT troubleshooting
-- **Game Development**: Collection of Unity-based games and simulations
+- **Game Development**: Collection of Unity and godot-based games
 - **Teoriprøve Platform**: Web application for theory test preparation
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kasperkilde)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@kasperkilde.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@kasperkilde2.com)
