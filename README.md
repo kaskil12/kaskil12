@@ -25,6 +25,7 @@ Software developer specializing in C#, TypeScript, and Unity game development. B
 
 ![Kasper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaskil12&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaskil12&layout=compact&theme=dark&hide=c,tex,shaderlab,mathematica,hlsl,cmake)
+![Streak](https://streak-stats.demolab.com/?user=kaskil12&theme=transparent)
 
 ## Current Projects
 
